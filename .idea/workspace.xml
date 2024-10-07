@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="118a9e69-a39c-4106-a673-5807c18e8a5d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first python program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/turtle_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/user_create.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.variables/variables_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Function/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.conditionals/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.conditionals/for_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.conditionals/while_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.comparision/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.comparision/compare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.comparision/compare_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.logical/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.logical/logical_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.string/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.string/string_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Tuples/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.Tuples/tuples_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.list/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.list/list_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program15(while loop).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program16(While).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program17(break and continue).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program18(list-1).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program19(List-2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program20(range function).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program21(for loop).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program22(series).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program24(guessing game).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program27(dictionary).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program29(set).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program30(stack).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program31(queue).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program32(function).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program33(function return).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program34(xarg xxargs).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program35(lembda function).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program36(map &amp; filter function).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program37(list comprehension).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program38(zip function).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program39(recursion).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program40(reading file).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program41(writing in a file).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program42(exception handling).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program43(exception handling2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program44(swapping).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program45(class and object).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program46(class excercise).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program48(method overriding).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program49(inharitence exmpl).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program50(types of inheritance).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program51(abstract method).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program52(magic method).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program53(regular expression).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program54(search and replace).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program55(meta character).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program56(character class).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/program9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anisul Haque/student.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary/dictionary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/my_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/python_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classObject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classObject/class_demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classObject/class_demo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classObject/class_demo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classObject/class_demo4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mydioikN7F4sF53ha6CqZxEc11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="118a9e69-a39c-4106-a673-5807c18e8a5d" name="Changes" comment="" />
+      <created>1728052883040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728052883040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
