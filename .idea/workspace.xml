@@ -10,105 +10,78 @@
       <change afterPath="$PROJECT_DIR$/../Automation/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Automation/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/chrome_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/firefox_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/chrome_wdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/edge_wdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/firefox_wd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/open_website_offline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/open_website_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/set_window_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/wepage_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/wepage_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/guru99/New_Customer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/guru99/New_Customer/add_customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/guru99/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/guru99/login/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/guru99/login/guru99_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first python program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.Relational Operator &amp; Boolean Data Type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.if, else statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.elif statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.Inner If Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14.Ternary Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.Logical operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16.Letter Grade Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.Sum of n numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.break and continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Backslash characters and comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.List (Part-1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.List (Part-2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22.Range function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.for Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24.Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.Pattern printing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.Guessing Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.List as input from user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.List as input from user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.Variables and Data Types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.Tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.Stack And Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.Introduction to Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.Returning Value from function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.xxargs and xxxargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.Debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.Lambda Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/38.map and filter function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39.List Comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.Basic Numerical Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.Getting User Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.Type Casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Area of any shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Math related Library functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.Formatted String | Type function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/conversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/turtle_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/user_create.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.variables/variables_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Function/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.conditionals/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.conditionals/for_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.conditionals/while_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.comparision/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.comparision/compare.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.comparision/compare_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.logical/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.logical/logical_operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.string/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.string/string_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Tuples/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.Tuples/tuples_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.list/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.list/list_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program15(while loop).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program16(While).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program17(break and continue).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program18(list-1).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program19(List-2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program20(range function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program21(for loop).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program22(series).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program24(guessing game).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program27(dictionary).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program29(set).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program30(stack).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program31(queue).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program32(function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program33(function return).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program34(xarg xxargs).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program35(lembda function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program36(map &amp; filter function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program37(list comprehension).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program38(zip function).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program39(recursion).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program40(reading file).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program41(writing in a file).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program42(exception handling).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program43(exception handling2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program44(swapping).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program45(class and object).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program46(class excercise).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program48(method overriding).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program49(inharitence exmpl).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program50(types of inheritance).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program51(abstract method).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program52(magic method).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program53(regular expression).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program54(search and replace).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program55(meta character).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program56(character class).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/program9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anisul Haque/student.text" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary/dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/my_module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module/python_module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classObject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classObject/class_demo1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classObject/class_demo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classObject/class_demo3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classObject/class_demo4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first python program.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.first python program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
@@ -128,15 +101,184 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2mydioikN7F4sF53ha6CqZxEc11" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.10.Relational Operator & Boolean Data Type.executor": "Run",
+    "Python.11.if, else statement.executor": "Run",
+    "Python.12.elif statement.executor": "Run",
+    "Python.13.Inner If Statement.executor": "Run",
+    "Python.14.Ternary Operator.executor": "Run",
+    "Python.15.Logical operator.executor": "Run",
+    "Python.16.Letter Grade Program.executor": "Run",
+    "Python.17.while loop.executor": "Run",
+    "Python.18.Sum of n numbers.executor": "Run",
+    "Python.19.break and continue.executor": "Run",
+    "Python.20.List (Part-1).executor": "Run",
+    "Python.21.List (Part-2).executor": "Run",
+    "Python.22.Range function.executor": "Run",
+    "Python.23.for Loop.executor": "Run",
+    "Python.24.Series.executor": "Run",
+    "Python.25.Pattern printing.executor": "Run",
+    "Python.26.Guessing Game.executor": "Run",
+    "Python.27.List as input from user.executor": "Run",
+    "Python.28.List as input from user.executor": "Run",
+    "Python.29.Matrix.executor": "Run",
+    "Python.3.Variables and Data Types.executor": "Run",
+    "Python.30.Dictionaries.executor": "Run",
+    "Python.31.Tuples.executor": "Run",
+    "Python.32.Set.executor": "Run",
+    "Python.33.Stack And Queue.executor": "Run",
+    "Python.34.Introduction to Function.executor": "Run",
+    "Python.35.Returning Value from function.executor": "Run",
+    "Python.36.xxargs and xxxargs.executor": "Run",
+    "Python.37.Debugging.executor": "Debug",
+    "Python.37.Lambda Functions.executor": "Run",
+    "Python.38.map and filter function.executor": "Run",
+    "Python.4.Basic Numerical Operations.executor": "Run",
+    "Python.5.Getting User Input.executor": "Run",
+    "Python.6.Type Casting.executor": "Run",
+    "Python.7.Area of any shape.executor": "Run",
+    "Python.8.Math related Library functions.executor": "Run",
+    "Python.9.Formatted String | Type function.executor": "Run",
+    "Python.Backslash characters and comments.executor": "Run",
+    "Python.first python program.executor": "Run",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.38.map and filter function">
+    <configuration name="35.Returning Value from function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/35.Returning Value from function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="36.xxargs and xxxargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/36.xxargs and xxxargs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="37.Debugging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37.Debugging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="37.Lambda Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/37.Lambda Functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="38.map and filter function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38.map and filter function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.38.map and filter function" />
+        <item itemvalue="Python.37.Lambda Functions" />
+        <item itemvalue="Python.37.Debugging" />
+        <item itemvalue="Python.36.xxargs and xxxargs" />
+        <item itemvalue="Python.35.Returning Value from function" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -166,5 +308,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
