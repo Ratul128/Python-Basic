@@ -1,8 +1,9 @@
 num=[1,2,3,4,5]
 
-print("fhdsfhasfhkas")
+#expression for item in list
 
-def abc():
-    print("Function abc")
+result1=[x*x for x in num]
+print(result1)
 
-abc()
+result2=[x for x in num if x%2==0]
+print(result2)
