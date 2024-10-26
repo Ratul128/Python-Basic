@@ -4,5 +4,5 @@ b=30
 
 a,b=b,a
 
-print("valu of a",a)
-print("valu of b",b)
+print("value of a",a)
+print("value of b",b)
