@@ -37,7 +37,7 @@
       <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50.Introducing Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/51.Constructor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
@@ -122,6 +122,7 @@
     "Python.49.Introduction to OOP | class and object.executor": "Run",
     "Python.5.Getting User Input.executor": "Run",
     "Python.50.Introducing Methods.executor": "Debug",
+    "Python.51.Constructor.executor": "Run",
     "Python.6.Type Casting.executor": "Run",
     "Python.7.Area of any shape.executor": "Run",
     "Python.8.Math related Library functions.executor": "Run",
@@ -131,29 +132,7 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.50.Introducing Methods">
-    <configuration name="46.Exception Handling (part-2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46.Exception Handling (part-2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.51.Constructor">
     <configuration name="47.Swapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonCode" />
       <option name="ENV_FILES" value="" />
@@ -242,13 +221,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="51.Constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51.Constructor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.51.Constructor" />
         <item itemvalue="Python.50.Introducing Methods" />
         <item itemvalue="Python.49.Introduction to OOP | class and object" />
         <item itemvalue="Python.47.Swapping" />
         <item itemvalue="Python.48.Formatted String" />
-        <item itemvalue="Python.46.Exception Handling (part-2)" />
       </list>
     </recent_temporary>
   </component>
