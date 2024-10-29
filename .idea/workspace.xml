@@ -37,7 +37,8 @@
       <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/52.class&amp;mathod exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53.Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54.Method Overriding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
@@ -124,6 +125,7 @@
     "Python.50.Introducing Methods.executor": "Debug",
     "Python.51.Constructor.executor": "Run",
     "Python.52.class&mathod exercise.executor": "Run",
+    "Python.53.Inheritance.executor": "Run",
     "Python.6.Type Casting.executor": "Run",
     "Python.7.Area of any shape.executor": "Run",
     "Python.8.Math related Library functions.executor": "Run",
@@ -133,29 +135,7 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.52.class&amp;mathod exercise">
-    <configuration name="47.Swapping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47.Swapping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.53.Inheritance">
     <configuration name="49.Introduction to OOP | class and object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonCode" />
       <option name="ENV_FILES" value="" />
@@ -244,13 +224,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="53.Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53.Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.53.Inheritance" />
         <item itemvalue="Python.52.class&amp;mathod exercise" />
         <item itemvalue="Python.51.Constructor" />
         <item itemvalue="Python.50.Introducing Methods" />
         <item itemvalue="Python.49.Introduction to OOP | class and object" />
-        <item itemvalue="Python.47.Swapping" />
       </list>
     </recent_temporary>
   </component>
