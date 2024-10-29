@@ -37,7 +37,7 @@
       <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/56.Types Of Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57.Abstraction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
@@ -128,6 +128,7 @@
     "Python.54.Method Overriding.executor": "Run",
     "Python.55.A practical example of inheritance.executor": "Run",
     "Python.56.Types Of Inheritance.executor": "Run",
+    "Python.57.Abstraction.executor": "Run",
     "Python.6.Type Casting.executor": "Run",
     "Python.7.Area of any shape.executor": "Run",
     "Python.8.Math related Library functions.executor": "Run",
@@ -137,29 +138,7 @@
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.56.Types Of Inheritance">
-    <configuration name="52.class&amp;mathod exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/52.class&amp;mathod exercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.57.Abstraction">
     <configuration name="53.Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonCode" />
       <option name="ENV_FILES" value="" />
@@ -248,13 +227,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="57.Abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/57.Abstraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.57.Abstraction" />
         <item itemvalue="Python.56.Types Of Inheritance" />
         <item itemvalue="Python.55.A practical example of inheritance" />
         <item itemvalue="Python.54.Method Overriding" />
         <item itemvalue="Python.53.Inheritance" />
-        <item itemvalue="Python.52.class&amp;mathod exercise" />
       </list>
     </recent_temporary>
   </component>
