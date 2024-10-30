@@ -37,7 +37,6 @@
       <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/58.Polymorphism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
@@ -129,6 +128,7 @@
     "Python.55.A practical example of inheritance.executor": "Run",
     "Python.56.Types Of Inheritance.executor": "Run",
     "Python.57.Abstraction.executor": "Run",
+    "Python.58.Polymorphism.executor": "Run",
     "Python.6.Type Casting.executor": "Run",
     "Python.7.Area of any shape.executor": "Run",
     "Python.8.Math related Library functions.executor": "Run",
