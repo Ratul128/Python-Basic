@@ -4,3 +4,5 @@ print("Ratul")
 
 print("Yakin")
 
+print("1001")
+
