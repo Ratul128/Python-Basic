@@ -7,3 +7,5 @@ print(name+" lives in Dhaka")
 print("He is currently",age,"years old")
 print("At the age of",age," he has started to learn python")
 print(name+" has scored",cgpa, "at his bsc")
+
+print(name)
