@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="118a9e69-a39c-4106-a673-5807c18e8a5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/chrome_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/firefox_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/chrome_wdm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/edge_wdm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/1. Browser_config/webdriver_manager/firefox_wd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/open_website_offline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/2.open_website/open_website_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/navigation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/set_window_size.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/wepage_title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/3.browser_command/wepage_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/Drivers/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/guru99/New_Customer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/guru99/New_Customer/add_customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/guru99/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/guru99/login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/guru99/login/guru99_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Automation/test program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonBasic/.idea/pythonCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../geckodriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/PythonBasic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonBasic/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ratul128"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Ratul128/Automation_BITM.git",
+    "accountId": "d2856481-fc7b-4061-85dc-79c528a43467"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -85,6 +59,7 @@
     "Python.17.while loop.executor": "Run",
     "Python.18.Sum of n numbers.executor": "Run",
     "Python.19.break and continue.executor": "Run",
+    "Python.2.Backslash characters and comments.executor": "Run",
     "Python.20.List (Part-1).executor": "Run",
     "Python.21.List (Part-2).executor": "Run",
     "Python.22.Range function.executor": "Run",
@@ -136,6 +111,7 @@
     "Python.Backslash characters and comments.executor": "Run",
     "Python.area_module_2.executor": "Run",
     "Python.first python program.executor": "Run",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
@@ -144,8 +120,8 @@
       <recent name="$PROJECT_DIR$/module_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.area_module_2">
-    <configuration name="56.Types Of Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.Backslash characters and comments">
+    <configuration name="2.Backslash characters and comments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/56.Types Of Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Backslash characters and comments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.Backslash characters and comments" />
         <item itemvalue="Python.area_module_2" />
         <item itemvalue="Python.area_module_1" />
         <item itemvalue="Python.58.Polymorphism" />
         <item itemvalue="Python.57.Abstraction" />
-        <item itemvalue="Python.56.Types Of Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -296,16 +272,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/50.Introducing Methods.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
